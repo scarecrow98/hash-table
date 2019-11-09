@@ -6,9 +6,21 @@
 
 #IncludeRegexTransform: 
 
+/cygdrive/c/Users/ferri/Desktop/hash-table/HashEntry.h
+
+/cygdrive/c/Users/ferri/Desktop/hash-table/HashTable.h
+iostream
+-
+HashEntry.h
+/cygdrive/c/Users/ferri/Desktop/hash-table/HashEntry.h
+
 /cygdrive/c/Users/ferri/Desktop/hash-table/main.cpp
 iostream
 -
 string
 -
+HashTable.h
+/cygdrive/c/Users/ferri/Desktop/hash-table/HashTable.h
+HashEntry.h
+/cygdrive/c/Users/ferri/Desktop/hash-table/HashEntry.h
 
